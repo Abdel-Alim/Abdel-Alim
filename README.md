@@ -1,183 +1,172 @@
-# 👋 Welcome to My GitHub Profile
+# Abdel-Alim | Data Scientist • NLP Specialist • BI Analyst
 
-I'm **Abdel-Alim**, a passionate Data Scientist and NLP Specialist dedicated to building intelligent solutions that transform data into actionable insights. With expertise in Machine Learning, Natural Language Processing, and Business Intelligence, I develop end-to-end projects that solve real-world problems.
+I turn raw data into intelligent, decision-ready solutions by combining machine learning, natural language processing, and business intelligence.
 
----
+My work focuses on building data-driven products and analytical systems that improve business understanding, automate text processing, and support strategic decisions.
 
-## 🎯 Core Expertise
+## Professional Focus
 
-- **Natural Language Processing (NLP)** - Text classification, sentiment analysis, fake news detection
-- **Machine Learning** - TF-IDF, Naive Bayes, Logistic Regression, Linear SVM
-- **Business Intelligence** - Power BI dashboards, Excel analytics, sales performance tracking
-- **Data Analysis & Visualization** - Interactive dashboards, data exploration, statistical analysis
-- **AI & Automation** - Multi-agent systems, LangGraph, advanced NLP workflows
+- NLP & Text Analytics
+- Machine Learning & Predictive Modeling
+- Business Intelligence & Dashboard Design
+- Data Analysis & Insight Generation
+- AI Automation & Multi-Agent Workflows
 
----
+## Core Skills
 
-## 🚀 Featured Projects
+### Languages & Tools
+- Python
+- SQL
+- Jupyter Notebook
+- Excel
+- Power BI
+- Git & GitHub
 
-### 📊 **NLP & Machine Learning Projects**
+### Data & AI Stack
+- Scikit-learn
+- TF-IDF
+- Naive Bayes
+- Logistic Regression
+- Linear SVM
+- GridSearchCV
+- Joblib
+- LangGraph
+- OpenRouter
+- Tavily Search API
 
-#### [Resume Analyzer & Job Matching System](https://github.com/Abdel-Alim/-Resume-Analyzer-Job-Matching-System-NLP)
-An end-to-end NLP solution for automated resume classification and candidate ranking using TF-IDF and LinearSVC. Features keyword extraction, PDF analysis, and job-description similarity calculations.
-- **Tech Stack:** Python, TF-IDF, LinearSVC, NLP
-- **Key Features:** Resume parsing, keyword extraction, candidate ranking
+### BI & Analytics
+- Power BI dashboards
+- Excel PivotTables & Pivot Charts
+- KPI tracking
+- Interactive reporting
+- Sales and performance analysis
 
-#### [BBC News Classification - NLP](https://github.com/Abdel-Alim/BBC-News-Classification-NLP)
-NLP-based news classification project achieving multi-class categorization using multiple machine learning algorithms.
-- **Tech Stack:** Python, TF-IDF, Naive Bayes, Logistic Regression, Linear SVM
-- **Highlights:** Model comparison, hyperparameter tuning, confusion matrix analysis, deployment-ready
+## Featured Projects
 
-#### [Fake News Detection](https://github.com/Abdel-Alim/Fake-News-Detection_nlp)
-Comprehensive end-to-end NLP project for detecting misinformation using advanced feature engineering and model optimization.
-- **Tech Stack:** Python, TF-IDF, Logistic Regression, GridSearchCV
-- **Features:** ROC-AUC evaluation, error analysis, model serialization
+### NLP & Machine Learning
 
-#### [News Topic Classification](https://github.com/Abdel-Alim/News-Topic-Classification_NLP)
-Multi-class news article classification system leveraging AG News dataset and multiple ML algorithms.
-- **Tech Stack:** Python, NLP, Machine Learning
-- **Methods:** Text preprocessing, TF-IDF, Naive Bayes, SVM, error analysis
+#### Resume Analyzer & Job Matching System
+A full NLP pipeline for resume classification, keyword extraction, and candidate ranking using TF-IDF and LinearSVC.
 
-#### [Emotion Classification - NLP](https://github.com/Abdel-Alim/Emotion-classification_nlp)
-Analyzes and classifies text into 6 emotion categories with comprehensive model evaluation and error analysis.
-- **Tech Stack:** Python, TF-IDF, Multinomial Naive Bayes, Linear SVM
-- **Deliverable:** Production-ready prediction pipeline
+- Resume parsing and PDF processing
+- Job-description similarity analysis
+- Candidate ranking and keyword extraction
+- Repository: https://github.com/Abdel-Alim/-Resume-Analyzer-Job-Matching-System-NLP
 
-#### [Sentiment Analysis Model](https://github.com/Abdel-Alim/sentiment_analysis_model_nlp)
-Advanced sentiment analysis implementation with complete preprocessing and classification pipeline.
-- **Tech Stack:** Python, NLP, Machine Learning
+#### BBC News Classification - NLP
+Multi-class text classification project using TF-IDF with several classic ML models such as Naive Bayes, Logistic Regression, and Linear SVM.
 
-#### [Spam Email Classifier](https://github.com/Abdel-Alim/Spam_email_classifier_nlp)
-Email spam detection system using NLP techniques for accurate classification.
-- **Tech Stack:** Python, NLP, Text Classification
+- EDA and data preprocessing
+- Model comparison and tuning
+- Confusion matrix evaluation
+- Repository: https://github.com/Abdel-Alim/BBC-News-Classification-NLP
 
----
+#### Fake News Detection
+An end-to-end NLP project for misinformation detection with model evaluation, feature engineering, and deployment-ready serialization.
 
-### 📈 **Business Intelligence & Data Visualization**
+- TF-IDF features
+- Logistic Regression
+- ROC-AUC analysis
+- Repository: https://github.com/Abdel-Alim/Fake-News-Detection_nlp
 
-#### [Coffee Shop Sales BI Dashboard](https://github.com/Abdel-Alim/Coffee-Shop-Sales-Business-Intelligence-power-bi-Dashboard)
-Interactive Power BI dashboard analyzing coffee shop performance with KPIs, sales trends, and business metrics.
-- **Features:** Sales analysis, product performance, time-based insights, store comparison
-- **Tool:** Power BI
+#### News Topic Classification
+Classification of news articles into multiple categories using AG News and a range of machine learning approaches.
 
-#### [Cosmetics Sales BI Dashboard](https://github.com/Abdel-Alim/Cosmetics-Sales-BI-Dashboard)
-Professional executive-focused Power BI dashboard for comprehensive cosmetics sales analysis.
-- **Analysis Covered:** Profitability, orders, customers, products, markets, regions, segments
-- **Design:** Executive dashboard with actionable insights
+- Text preprocessing
+- TF-IDF
+- Naive Bayes and SVM comparison
+- Repository: https://github.com/Abdel-Alim/News-Topic-Classification_NLP
 
-#### [Sales Performance Dashboard - Excel](https://github.com/Abdel-Alim/Sales-Performance-Dashboard-Excel)
-Interactive Excel analytics dashboard with fully connected filters and dynamic KPIs.
-- **Features:** Sales tracking, profit analysis, quantity metrics, interactive pivots
+#### Emotion Classification - NLP
+Text classification project for identifying six emotional categories with evaluation and error analysis.
 
-#### [Coca-Cola Retail Sales Dashboard](https://github.com/Abdel-Alim/Cocacola-excel-dashboard-)
-Comprehensive Excel dashboard analyzing Coca-Cola retail performance across regions and product lines.
-- **Features:** Regional analysis, product performance, PivotTables, Slicers
+- Text feature extraction
+- Multinomial Naive Bayes
+- Linear SVM
+- Repository: https://github.com/Abdel-Alim/Emotion-classification_nlp
 
-#### [Student Performance Dashboard - Excel](https://github.com/Abdel-Alim/Student_Performance_Dashboard-_Excel)
-Interactive Excel dashboard for academic performance analysis using PivotTables and KPIs.
-- **Features:** Student metrics, performance tracking, comparative analysis
+#### Sentiment Analysis Model
+Sentiment classification pipeline focused on effective preprocessing and model evaluation for text data.
 
-#### [Excel Data Analysis Dashboard](https://github.com/Abdel-Alim/Excel-Data-Analysis-Dashboard)
-Professional Excel analytics dashboard for comprehensive data insights.
+- NLP workflow design
+- Text classification
+- Repository: https://github.com/Abdel-Alim/sentiment_analysis_model_nlp
 
----
+#### Spam Email Classifier
+Machine learning solution for detecting spam emails using NLP techniques and text classification.
 
-### 🤖 **Advanced AI Projects**
+- Email filtering
+- Text classification
+- Repository: https://github.com/Abdel-Alim/Spam_email_classifier_nlp
 
-#### [MarketAgent - Multi-Agent System](https://github.com/Abdel-Alim/MarketAgent)
-Sophisticated multi-agent market research system with specialized agents for data collection and analysis.
-- **Tech Stack:** LangGraph, OpenRouter, Tavily Search API
-- **Agents:** Supervisor, Researcher, Analyst, Writer, Critic
-- **Features:** Real-time web data, automated markdown reports, dynamic workflows
+### Business Intelligence & Analytics
 
----
+#### Coffee Shop Sales BI Dashboard
+Interactive Power BI dashboard for analyzing sales trends, KPIs, and performance across coffee shop operations.
 
-## 💡 Skills & Technologies
+- Sales analytics
+- Product and store insights
+- Time-based analysis
+- Repository: https://github.com/Abdel-Alim/Coffee-Shop-Sales-Business-Intelligence-power-bi-Dashboard
 
-### **Languages & Frameworks**
-- Python | Jupyter Notebook | SQL
+#### Cosmetics Sales BI Dashboard
+Executive-level Power BI dashboard designed to reveal sales performance, profitability, and customer/product trends.
 
-### **NLP & ML Libraries**
-- TF-IDF | Scikit-learn | Naive Bayes | SVM | Logistic Regression | GridSearchCV | Joblib
+- Profitability analysis
+- Region and market coverage
+- Executive reporting
+- Repository: https://github.com/Abdel-Alim/Cosmetics-Sales-BI-Dashboard
 
-### **BI & Data Visualization**
-- Power BI | Microsoft Excel | PivotTables | Pivot Charts | Slicers | KPIs
+#### Sales Performance Dashboard - Excel
+Interactive Excel dashboard for sales, profit, and quantity analysis with connected filters and KPI tracking.
 
-### **Advanced Tools**
-- LangGraph | OpenRouter | Tavily Search API | PDF Processing
+- Sales analysis
+- Pivot charts
+- Dashboard design
+- Repository: https://github.com/Abdel-Alim/Sales-Performance-Dashboard-Excel
 
-### **Methodologies**
-- Data Preprocessing | Feature Engineering | Hyperparameter Tuning | Model Evaluation
-- EDA (Exploratory Data Analysis) | Confusion Matrix Analysis | Error Analysis
+#### Coca-Cola Retail Sales Dashboard
+Retail sales dashboard for regional and product-line performance analysis using Excel and pivot-based reporting.
 
----
+- Retail analytics
+- Dashboard visualization
+- Repository: https://github.com/Abdel-Alim/Cocacola-excel-dashboard-
 
-## 📚 Areas of Focus
+#### Student Performance Dashboard - Excel
+Academic performance dashboard designed to analyze trends, grade distributions, and KPI outcomes.
 
-✅ **Text Classification & NLP** - Building intelligent systems that understand and categorize text  
-✅ **Predictive Analytics** - Creating models that forecast trends and behaviors  
-✅ **Business Intelligence** - Transforming raw data into strategic insights  
-✅ **Data Visualization** - Designing interactive dashboards for decision-making  
-✅ **ML Operations** - Deploying models for production use  
+- Student metrics
+- Comparative analysis
+- Repository: https://github.com/Abdel-Alim/Student_Performance_Dashboard-_Excel
 
----
+### AI & Automation
 
-## 🎓 Project Highlights
+#### MarketAgent - Multi-Agent Research System
+A multi-agent AI system built with LangGraph and OpenRouter for dynamic market research using real-time web data.
 
-| Project | Category | Key Achievement |
-|---------|----------|-----------------|
-| Resume Analyzer | NLP | Automated candidate ranking system |
-| Fake News Detection | NLP | Production-ready misinformation filter |
-| Coffee Shop BI Dashboard | Analytics | Real-time business performance tracking |
-| MarketAgent | AI | Multi-agent autonomous research system |
-| Cosmetics Sales Dashboard | BI | Executive-level insights delivery |
+- Supervisor, researcher, analyst, writer, and critic agents
+- Automated research workflow
+- Markdown report generation
+- Repository: https://github.com/Abdel-Alim/MarketAgent
 
----
+## Portfolio Snapshot
 
-## 📊 Portfolio Stats
+- 7+ NLP and machine learning projects
+- 5+ interactive BI dashboards
+- Strong experience in Python, SQL, Power BI, and Excel
+- Hands-on work in text classification, analytics, and AI workflow design
 
-- **NLP Projects:** 7+ advanced projects
-- **BI Dashboards:** 5+ interactive dashboards
-- **ML Models:** 20+ trained and evaluated models
-- **AI Systems:** Multi-agent orchestration & automation
+## Professional Summary
 
----
+I specialize in turning complex information into useful, clear, and actionable insights. My projects demonstrate a blend of technical skill and business understanding, with a focus on building practical analytical solutions across NLP, machine learning, and BI.
 
-## 🌟 Why Work With Me?
+## Let's Connect
 
-✨ **End-to-End Solutions** - From problem definition to production deployment  
-✨ **Data-Driven Approach** - Evidence-based insights and recommendations  
-✨ **Quality Focus** - Comprehensive testing, evaluation, and error analysis  
-✨ **Clear Communication** - Well-documented code and insights  
-✨ **Continuous Learning** - Staying updated with latest ML/NLP trends  
+I’m open to collaboration, data science opportunities, and AI/NLP projects.
 
----
+- GitHub: https://github.com/Abdel-Alim
+- Repositories: https://github.com/Abdel-Alim?tab=repositories
 
-## 📫 Let's Connect!
+## Profile Footer
 
-I'm always interested in discussing data science, NLP, and machine learning projects. Feel free to:
-
-- Explore my repositories and provide feedback
-- Collaborate on interesting projects
-- Discuss ideas and approaches to data challenges
-- Connect on professional networks
-
----
-
-## 📝 License
-
-Most of my projects are open source. Please check individual repositories for specific license details.
-
----
-
-**Last Updated:** October 2026 | Based on 14 public repositories
-
----
-
-### 🔗 Quick Links
-- 🌐 [GitHub Profile](https://github.com/Abdel-Alim)
-- 📂 [All Repositories](https://github.com/Abdel-Alim?tab=repositories)
-
----
-
-*"Data is the new oil, and I help you extract its value."* 💡📊
+Data Science • NLP • Machine Learning • Business Intelligence

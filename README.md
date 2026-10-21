@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7AF5FF&center=true&vCenter=true&width=800&lines=Data+Scientist;NLP+Specialist;BI+Analyst;AI+Automation+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7AF5FF&center=true&vCenter=true&width=800&lines=Data+Scientist;NLP+Specialist;BI+Analyst;AI+Automation+Engineer" alt="Typing banner" />
 </p>
 
 <p align="center">
@@ -214,7 +214,7 @@ A multi-agent AI workflow built using LangGraph and OpenRouter for real-time mar
 
 ## 📌 Professional Summary
 
-I specialize in turning complex information into clear, actionable insight. My portfolio reflects a blend of technical depth and business understanding, with a strong focus on data science, NLP, analytics, and AI-driven workflow design.
+I specialize in turning complex information into clear, actionable insight. My portfolio reflects a blend of technical depth and business understanding, with a strong focus on data science, NLP, analysis, and AI-enabled decision support.
 
 ---
 

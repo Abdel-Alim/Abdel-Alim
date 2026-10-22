@@ -1,7 +1,6 @@
-```markdown
 <!-- =========================================================
      GITHUB PROFILE README | Abdel-Alim
-     Save this file as README.md inside github.com/Abdel-Alim/Abdel-Alim
+     Save as README.md in github.com/Abdel-Alim/Abdel-Alim
      ========================================================= -->
 
 <p align="center">
@@ -198,4 +197,3 @@ The best place to explore my work is here on GitHub. Feel free to browse the rep
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0B1220&height=110&section=footer" width="100%" alt="Decorative footer" />
 </p>
-```
